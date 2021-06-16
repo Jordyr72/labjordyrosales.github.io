@@ -1,2 +1,2 @@
-# labjordyrosales.github.io
+# mibiografíaJR.github.io
 Lab-Html-CSS
