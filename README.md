@@ -1,2 +1,2 @@
-# mibiografíaJR.github.io
+# mibiografiaJR.github.io
 Lab-Html-CSS
